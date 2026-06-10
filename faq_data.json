@@ -1,0 +1,162 @@
+[
+  {
+    "question": "What is AI?",
+    "answer": "AI stands for Artificial Intelligence, which enables machines to perform tasks that normally require human intelligence."
+  },
+  {
+    "question": "What is Machine Learning?",
+    "answer": "Machine Learning is a subset of AI that allows systems to learn from data without explicit programming."
+  },
+  {
+    "question": "What is Deep Learning?",
+    "answer": "Deep Learning is a branch of Machine Learning that uses neural networks with multiple layers."
+  },
+  {
+    "question": "What is NLP?",
+    "answer": "NLP stands for Natural Language Processing, which helps computers understand human language."
+  },
+  {
+    "question": "What is Python?",
+    "answer": "Python is a popular high-level programming language used in AI, web development, and data science."
+  },
+  {
+    "question": "What is a chatbot?",
+    "answer": "A chatbot is a software application that can communicate with users through text or voice."
+  },
+  {
+    "question": "What is data science?",
+    "answer": "Data science is the process of extracting useful insights and knowledge from data."
+  },
+  {
+    "question": "What is cloud computing?",
+    "answer": "Cloud computing provides computing services over the internet instead of local systems."
+  },
+  {
+    "question": "What is cybersecurity?",
+    "answer": "Cybersecurity is the practice of protecting systems, networks, and data from cyber threats."
+  },
+  {
+    "question": "What is an algorithm?",
+    "answer": "An algorithm is a step-by-step procedure used to solve a problem."
+  },
+  {
+    "question": "What is a database?",
+    "answer": "A database is an organized collection of data that can be stored and accessed electronically."
+  },
+  {
+    "question": "What is SQL?",
+    "answer": "SQL stands for Structured Query Language and is used to manage databases."
+  },
+  {
+    "question": "What is Java?",
+    "answer": "Java is an object-oriented programming language widely used for enterprise applications."
+  },
+  {
+    "question": "What is C programming?",
+    "answer": "C is a powerful programming language commonly used for system and embedded programming."
+  },
+  {
+    "question": "What is HTML?",
+    "answer": "HTML stands for HyperText Markup Language and is used to create web pages."
+  },
+  {
+    "question": "What is CSS?",
+    "answer": "CSS stands for Cascading Style Sheets and is used to style web pages."
+  },
+  {
+    "question": "What is JavaScript?",
+    "answer": "JavaScript is a scripting language used to make websites interactive."
+  },
+  {
+    "question": "What is Flask?",
+    "answer": "Flask is a lightweight Python web framework used for building web applications."
+  },
+  {
+    "question": "What is Git?",
+    "answer": "Git is a distributed version control system used for tracking code changes."
+  },
+  {
+    "question": "What is GitHub?",
+    "answer": "GitHub is a platform for hosting and managing Git repositories."
+  },
+  {
+    "question": "What is a neural network?",
+    "answer": "A neural network is a computing system inspired by the structure of the human brain."
+  },
+  {
+    "question": "What is supervised learning?",
+    "answer": "Supervised learning is a machine learning approach where models learn from labeled data."
+  },
+  {
+    "question": "What is unsupervised learning?",
+    "answer": "Unsupervised learning is a machine learning approach where models identify patterns without labeled data."
+  },
+  {
+    "question": "What is reinforcement learning?",
+    "answer": "Reinforcement learning trains agents by rewarding desired actions and penalizing undesired actions."
+  },
+  {
+    "question": "What is a computer network?",
+    "answer": "A computer network is a collection of interconnected devices that share resources and data."
+  },
+  {
+    "question": "What is the Internet?",
+    "answer": "The Internet is a global network connecting millions of computers and devices."
+  },
+  {
+    "question": "What is an operating system?",
+    "answer": "An operating system manages computer hardware and software resources."
+  },
+  {
+    "question": "What is Linux?",
+    "answer": "Linux is an open-source operating system widely used in servers and development."
+  },
+  {
+    "question": "What is Android?",
+    "answer": "Android is a mobile operating system developed by Google."
+  },
+  {
+    "question": "What is software engineering?",
+    "answer": "Software engineering is the systematic design, development, testing, and maintenance of software."
+  },
+  {
+    "question": "Who developed Python?",
+    "answer": "Python was developed by Guido van Rossum and first released in 1991."
+  },
+  {
+    "question": "What is the capital of India?",
+    "answer": "The capital of India is New Delhi."
+  },
+  {
+    "question": "Who is the Prime Minister of India?",
+    "answer": "The Prime Minister of India is Narendra Modi."
+  },
+  {
+    "question": "What is the full form of AIML?",
+    "answer": "AIML stands for Artificial Intelligence and Machine Learning."
+  },
+  {
+    "question": "What is engineering?",
+    "answer": "Engineering is the application of scientific principles to design and build structures, machines, and systems."
+  },
+  {
+    "question": "What is a semester?",
+    "answer": "A semester is an academic term in a college or university."
+  },
+  {
+    "question": "What is an internship?",
+    "answer": "An internship is a temporary work experience opportunity for students and fresh graduates."
+  },
+  {
+    "question": "What is a resume?",
+    "answer": "A resume is a document that summarizes a person's education, skills, and work experience."
+  },
+  {
+    "question": "What is IELTS?",
+    "answer": "IELTS is an international English language proficiency test for study, work, and migration."
+  },
+  {
+    "question": "What is PTE?",
+    "answer": "PTE stands for Pearson Test of English, a computer-based English language test."
+  }
+]
