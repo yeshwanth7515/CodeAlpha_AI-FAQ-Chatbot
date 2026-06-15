@@ -1,4 +1,4 @@
-# 🤖 CodeAlpha AI FAQ Chatbot
+# 🤖 AI FAQ Chatbot
 
 ## 📌 Project Overview
 This project is an AI-powered FAQ Chatbot developed using Python and Flask. The chatbot answers user queries by matching them with frequently asked questions using Natural Language Processing (NLP) techniques.
